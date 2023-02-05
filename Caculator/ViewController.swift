@@ -394,7 +394,7 @@ class ViewController: UIViewController {
         }
         return 0
     }
-    
+    // 깃허브 테스트
     @IBAction func btnAC(_ sender: UIButton) {
         result = ""
         
